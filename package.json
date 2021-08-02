@@ -1,0 +1,25 @@
+{
+  "name": "dbuymeacoffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "solc": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatin0814/dbuymeacoffee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatin0814/dbuymeacoffee/issues"
+  },
+  "homepage": "https://github.com/jatin0814/dbuymeacoffee#readme"
+}
