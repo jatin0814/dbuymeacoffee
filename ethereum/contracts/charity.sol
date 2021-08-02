@@ -6,7 +6,7 @@ contract charity {
     string description;
     uint target;
     
-    function Campaign(string memory name, string memory des,uint tar) public {
+    function Charity(string memory name, string memory des,uint tar) public {
         nameOfChaity = name;
         description = des;
         target = tar;
